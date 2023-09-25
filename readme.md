@@ -1,6 +1,11 @@
-## EVEN or ODD
+## EVEN or ODD | Streamlit | Streamlit Share |  Heroku  
 
 This application or personal project is created to explore the Streamlit framework and understand how to deploy it both on Heroku and Streamlit Sharing.
+
+Explore the Streamlit framework through a simple web application that detects even and odd numbers.
+This repository provides an introductory example of building a web app using Streamlit.
+
+Additionally, discover the deployment process on both Streamlit Share and Heroku platforms
 
 
 ### Objective.
@@ -11,6 +16,13 @@ The objectives of this project are as follows:
 3. To gain practical experience in deploying the application on both Heroku and Streamlit Sharing.
 
 In this project, Streamlit has been used to create a simple user interface that checks whether a provided number is even or odd.
+
+
+### Technologies Used:
+1. Python
+2. Streamlit: Used to create the web app.
+3. Streamlit Share: Used for deployment.
+4. Heroku: Used for deployment.
 
 
 ### How to run the application:
